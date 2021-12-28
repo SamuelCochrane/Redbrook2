@@ -1,4 +1,4 @@
-#from https://gohugo.io/hosting-and-deployment/hosting-on-github/
+#from https://gohugo.io/hosting-and-deployment/hosting-on-github/, requires a PAT token (see here: https://www.jameswright.xyz/post/deploy-hugo-academic-using-githubio/#secret-token-setup)
 name: github pages
 
 on:
