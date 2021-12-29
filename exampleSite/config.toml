@@ -1,4 +1,6 @@
-baseURL = "https://samuelcochrane.github.io/Redbrook/examplesite"
+baseURL = "https://samloves.coffee/Redbrook/"
+relativeURLs = true
+canonifyURLs = true
 disqusShortname = ""
 languageCode = "en-us"
 paginate = "5"
