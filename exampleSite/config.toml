@@ -3,7 +3,6 @@ disqusShortname = ""
 languageCode = "en-us"
 paginate = "5"
 summaryLength = "10"
-theme = "northendlab-light"
 title = "Northendlab | Blog Template"
 [[menu.footer]]
 URL = "contact"
