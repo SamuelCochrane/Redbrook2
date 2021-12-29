@@ -1,4 +1,4 @@
-baseURL = "https://samloves.coffee/Redbrook/"
+baseURL = "https://samloves.coffee/Redbrook/exampleSite"
 relativeURLs = true
 canonifyURLs = true
 disqusShortname = ""
